@@ -10,5 +10,5 @@ BEGIN
 
     INSERT INTO corrections (user_id, project_id, score)
     VALUES(user_id, (SELECT id FROM projects where name=project_name), score)
-    END//
+    END;//
     DELIMITER;
