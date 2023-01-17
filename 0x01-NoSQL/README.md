@@ -1,0 +1,1 @@
+# this repository contains bash and python scripts that use Mongo to create, display and manipulate data into databases in the MongoDB environment.
